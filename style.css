@@ -363,7 +363,7 @@ section .title::after {
 .teams .carousel .card {
   background: #222;
   border-radius: 6px;
-   height:380px;
+  height: 380px;
   padding: 25px 35px;
   text-align: center;
   overflow: hidden;
@@ -390,7 +390,7 @@ section .title::after {
 .teams .carousel .card img {
   height: 150px;
   width: 150px;
- 
+
   object-fit: cover;
   border-radius: 50%;
   border: 5px solid teal;
@@ -530,7 +530,7 @@ footer span a:hover {
     width: 100%;
     left: -100%;
     top: 0;
-    background: #111;
+    background: #888;
     text-align: center;
     padding-top: 80px;
     transition: all 0.3s ease;
